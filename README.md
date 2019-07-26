@@ -1,6 +1,6 @@
 # amis-manager
 
-![./effect.git](effect)
+see `effect.gif`
 
 # reference
 
